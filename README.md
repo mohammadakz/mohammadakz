@@ -1,8 +1,6 @@
 ### Hi there 👋 I am a web-developer with Civil Engineering background.
 In other words, I can build webapps and buildings.
 
-<!--
-**mohammadakz/mohammadakz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mohammadakzadeh@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love CS:GO.
--->
