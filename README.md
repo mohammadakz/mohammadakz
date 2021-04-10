@@ -1,4 +1,4 @@
-### Hi there 👋 I am a web-developer and computer vision enthusiast with Civil Engineering background.
+### Hi there 👋 I am a Web-Developer and Computer Vision enthusiast with Civil Engineering background.
 In other words, I can build webapps and buildings.
 
 <br/>
