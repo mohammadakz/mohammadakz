@@ -1,6 +1,8 @@
 ### Hi there 👋 I am a web-developer and computer vision enthusiast with Civil Engineering background.
 In other words, I can build webapps and buildings.
-**https://mohammadakz.github.io/online-portfolio/**
+
+<br/>
+My portfolio: https://mohammadakbarzadeh.me/
 
 
 Here are some ideas to get you started:
