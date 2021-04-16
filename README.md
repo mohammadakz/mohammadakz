@@ -1,8 +1,7 @@
-### Hi there 👋 I am a Web-Developer and Computer Vision enthusiast with Civil Engineering background.
+### Hi there 👋 I am a Web-Developer and Computer Vision Engineer with Civil Engineering background.
 In other words, I can build webapps and buildings.
 
 <br/>
-My portfolio: https://mohammadakbarzadeh.me/
 <br/>
 <br/>
 
