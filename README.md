@@ -2,10 +2,6 @@
 In other words, I can build webapps, computer vision models and buildings 😄.
 
 <br/>
-<br/>
-<br/>
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on front-end development.
