@@ -1,5 +1,5 @@
-### Hi there 👋 I am a Web-Developer and Computer Vision Engineer with Civil Engineering background.
-In other words, I can build webapps, computer vision models and buildings 😄.
+### Hi there 👋 I am a Web-Developer and Computer Vision Engineer.
+In other words, I can build very nice looking websites and webapps and computer vision models to detect anything you want.
 
 <br/>
 Here are some ideas to get you started:
