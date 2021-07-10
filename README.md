@@ -2,8 +2,6 @@
 In other words, I can build very nice looking websites and webapps and computer vision models to detect anything you want.
 
 <br/>
-
-
 - 🔭 I’m currently working on front-end development.
 - 🌱 I’m currently learning back-end.
 - 👯 I’m looking to collaborate on front-end and computer vision.
