@@ -12,3 +12,5 @@ In other words, I can build very nice looking websites and webapps and computer 
 - 📫 How to reach me: mohammadakzadeh@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love CS:GO.
+
+[![mohammadakz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadakz&show_icons=true)](https://github.com/mohammadakz)
