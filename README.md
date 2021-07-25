@@ -7,4 +7,6 @@
 - Pronouns: he/him
 - Fun fact: I love CS:GO.
 
-[![mohammadakz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadakz&show_icons=true)](https://github.com/mohammadakz)
+[![mohammadakz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadakz&theme=dark&show_icons=true)](https://github.com/mohammadakz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mohammadakz=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
