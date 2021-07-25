@@ -9,6 +9,6 @@
 
 [![mohammadakz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadakz&theme=dark&show_icons=true)](https://github.com/mohammadakz)
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadakz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadakz&repo=github-readme-stats)](https://github.com/mohammadakz/github-readme-stats)
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadakz&repo=github-readme-stats)](https://github.com/mohammadakz/github-readme-stats) -->
 
 
