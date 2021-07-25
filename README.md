@@ -8,5 +8,5 @@
 - Fun fact: I love CS:GO.
 
 [![mohammadakz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadakz&theme=dark&show_icons=true)](https://github.com/mohammadakz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mohammadakz=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadakz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
