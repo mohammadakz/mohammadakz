@@ -1,8 +1,6 @@
-### Hi there 👋 I am a Web-Developer and a Computer Vision Engineer.
+### Hi there 👋 I am a Full Stack Web-Developer.
 <br/>
 
-- I’m currently working on front-end development.
-- I’m currently learning back-end.
 - How to reach me: mohammadakzadeh@gmail.com
 - Pronouns: he/him
 - Fun fact: I love CS:GO.
