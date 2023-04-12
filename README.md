@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Full Stack Web-Developer.
+### Hi there 👋
 <br/>
 
 - How to reach me: mohammadakzadeh@gmail.com
